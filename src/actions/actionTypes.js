@@ -1,0 +1,11 @@
+const actionTypes = {
+  RELOAD_STATE: 'RELOAD_STATE',
+  CREATE_ITEM: 'CREATE_ITEM',
+  REMOVE_ITEM: 'REMOVE_ITEM',
+  EDIT_ITEM: 'EDIT_ITEM',
+  MOVE_ITEM: 'MOVE_ITEM',
+  SET_VALUES: 'SET_VALUES',
+  SET_CHECKED: 'SET_CHECKED',
+};
+
+export default actionTypes;
