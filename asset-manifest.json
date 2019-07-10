@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/warship-girl/static/css/main.c616717b.chunk.css",
+    "main.js": "/warship-girl/static/js/main.4903e496.chunk.js",
+    "main.js.map": "/warship-girl/static/js/main.4903e496.chunk.js.map",
+    "runtime~main.js": "/warship-girl/static/js/runtime~main.ab4cd525.js",
+    "runtime~main.js.map": "/warship-girl/static/js/runtime~main.ab4cd525.js.map",
+    "static/js/2.2a84f464.chunk.js": "/warship-girl/static/js/2.2a84f464.chunk.js",
+    "static/js/2.2a84f464.chunk.js.map": "/warship-girl/static/js/2.2a84f464.chunk.js.map",
+    "index.html": "/warship-girl/index.html",
+    "precache-manifest.4fe6a3f6626a7bc6c6233f7111c730c6.js": "/warship-girl/precache-manifest.4fe6a3f6626a7bc6c6233f7111c730c6.js",
+    "service-worker.js": "/warship-girl/service-worker.js",
+    "static/css/main.c616717b.chunk.css.map": "/warship-girl/static/css/main.c616717b.chunk.css.map"
+  }
+}
